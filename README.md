@@ -572,6 +572,6 @@ The cognitive capacity of contemporary LLMs appears to be optimized for shorter 
 
 ## License
 
-[](https://github.com/natanaelwf/Reasoning_Degradation_Paper?tab=readme-ov-file#license)
+[](https://github.com/natanaelwf/Reasoning-Degradation_Paper?tab=readme-ov-file#license)
 
-This project is licensed under the  [MIT License](https://github.com/natanaelwf/Reasoning_Degradation_Paper/blob/master/License.txt)
+This project is licensed under the  [MIT License](https://github.com/natanaelwf/Reasoning-Degradation_Paper/blob/master/License.txt)
